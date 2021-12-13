@@ -13,5 +13,14 @@ This microsite is intended to provide an overview to the options for entering un
 
 ## Options
 
+### Keyboard install Mac
 
-## 
+### Keyboard install Windows
+
+### Manual input Mac
+
+### Manual input Windows
+
+### Character viewer Mac
+
+### Character viewer Windows
