@@ -29,7 +29,10 @@ This includes many moving parts, some of which are more striaghtforward than oth
 
 ## Use cases/examples
 
-
+1. Entirely English/Latin character set. No diacritics. No other characters. 
+2. Mostly English/Latin character set, with some diacritics. No other characters.
+3. Mostly English/Latin character set, with some disacritings and some other characters.
+4. Completely non-English/Latin character set. Eg: Cherokee, syllabic languages.
 
 ## Options
 
